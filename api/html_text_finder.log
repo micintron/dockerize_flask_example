@@ -1,0 +1,41 @@
+2020-08-25 16:20:49,307:DEBUG:While Loop 1 started...
+2020-08-25 16:20:54,989:DEBUG:Menu Choice 1 Selected...
+2020-08-25 16:21:56,667:DEBUG:Entered URL: https://www.youtube.com/watch?v=UbdsoAe5bsA&list=PLUY2mqPLuf6TtKMa4OASu8T54ps71MHIw&index=18
+2020-08-25 16:22:04,684:DEBUG:utf-8  confidence = 0.99
+2020-08-25 16:22:04,684:DEBUG:SHIFT_JIS Japanese confidence = 0.01
+2020-08-25 16:22:04,684:DEBUG:EUC-JP Japanese confidence = 0.01
+2020-08-25 16:22:04,684:DEBUG:GB2312 Chinese confidence = 0.01
+2020-08-25 16:22:04,684:DEBUG:EUC-KR Korean confidence = 0.01
+2020-08-25 16:22:04,684:DEBUG:CP949 Korean confidence = 0.01
+2020-08-25 16:22:04,684:DEBUG:Big5 Chinese confidence = 0.01
+2020-08-25 16:22:04,684:DEBUG:EUC-TW Taiwan confidence = 0.01
+2020-08-25 16:22:04,684:DEBUG:windows-1251 Russian confidence = 0.01
+2020-08-25 16:22:04,684:DEBUG:KOI8-R Russian confidence = 0.01
+2020-08-25 16:22:04,684:DEBUG:ISO-8859-5 Russian confidence = 0.0
+2020-08-25 16:22:04,684:DEBUG:MacCyrillic Russian confidence = 0.0
+2020-08-25 16:22:04,684:DEBUG:IBM866 Russian confidence = 0.0
+2020-08-25 16:22:04,684:DEBUG:IBM855 Russian confidence = 0.01
+2020-08-25 16:22:04,684:DEBUG:ISO-8859-7 Greek confidence = 0.0
+2020-08-25 16:22:04,684:DEBUG:windows-1253 Greek confidence = 0.0
+2020-08-25 16:22:04,684:DEBUG:ISO-8859-5 Bulgairan confidence = 0.0
+2020-08-25 16:22:04,684:DEBUG:windows-1251 Bulgarian confidence = 0.0
+2020-08-25 16:22:04,684:DEBUG:TIS-620 Thai confidence = 0.04366983104357989
+2020-08-25 16:22:04,684:DEBUG:ISO-8859-9 Turkish confidence = 0.411940126954757
+2020-08-25 16:22:04,684:DEBUG:windows-1255 Hebrew confidence = 0.0
+2020-08-25 16:22:04,684:DEBUG:windows-1255 Hebrew confidence = 0.0
+2020-08-25 16:22:04,684:DEBUG:windows-1255 Hebrew confidence = 0.0
+2020-08-25 16:22:04,684:DEBUG:utf-8  confidence = 0.99
+2020-08-25 16:22:04,685:DEBUG:SHIFT_JIS Japanese confidence = 0.01
+2020-08-25 16:22:04,685:DEBUG:EUC-JP Japanese confidence = 0.01
+2020-08-25 16:22:04,685:DEBUG:GB2312 Chinese confidence = 0.01
+2020-08-25 16:22:04,685:DEBUG:EUC-KR Korean confidence = 0.01
+2020-08-25 16:22:04,685:DEBUG:CP949 Korean confidence = 0.01
+2020-08-25 16:22:04,685:DEBUG:Big5 Chinese confidence = 0.01
+2020-08-25 16:22:04,685:DEBUG:EUC-TW Taiwan confidence = 0.01
+2020-08-25 16:22:04,750:DEBUG:End of While Loop 1 Reached
+2020-08-25 16:22:04,750:DEBUG:While Loop 1 started...
+2020-08-25 16:23:04,170:DEBUG:Menu Choice 3 Selected...
+2020-08-25 16:23:04,171:DEBUG:End of While Loop 1 Reached
+2020-08-27 15:08:18,381:DEBUG:While Loop 1 started...
+2020-08-27 15:12:40,168:DEBUG:While Loop 1 started...
+2020-08-27 15:13:42,734:DEBUG:While Loop 1 started...

@@ -1,0 +1,11 @@
+numpy==1.17.0
+sklearn
+beautifulsoup4
+sumy
+flask
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+flask-cors
+gunicorn
+html2text
